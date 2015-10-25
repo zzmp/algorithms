@@ -1,4 +1,4 @@
-package sort
+package reflection
 
 import "reflect"
 

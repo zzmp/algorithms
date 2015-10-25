@@ -1,7 +1,7 @@
 // BenchmarkInsertionReflect-4   2000000   822 ns/op  112 B/op 6 allocs/op
 // BenchmarkInsertionInterface-4 30000000  48.7 ns/op 0 B/op   0 allocs/op
 // BenchmarkInsertionInt-4       100000000 12.0 ns/op 0 B/op   0 allocs/op
-package sort
+package reflection
 
 import (
 	"reflect"
